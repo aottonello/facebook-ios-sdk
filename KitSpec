@@ -1,0 +1,5 @@
+name: facebook-ios-sdk
+version: 3.9.0
+
+resources-directory: "FacebookSDK.framework/Versions/A/Resources"
+src: "FacebookSDK.framework/Versions/A/Headers"
